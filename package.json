@@ -19,8 +19,5 @@
   "devDependencies": {
     "mocha": "2.4.5",
     "chai": "3.5.0"
-  },
-  "dependencies": {
-    "mocha-multi": "^1.0.1"
   }
 }
